@@ -1,0 +1,96 @@
+.logo{
+    background-color: aquamarine;
+    text-align: center;
+    height: 100px;
+    
+}
+header{
+    background-color: blueviolet;
+    text-align: center;
+    height: 100px;
+}
+.navigation{
+    background-color: chartreuse;
+    height: 100px;
+    overflow: hidden;
+    width: 100%;
+
+}
+.nav_one{
+    background-color: crimson;
+    height: 100px;
+    width: 25%;
+    float: left;
+    text-align: center;
+
+
+}
+.nav_two{
+    background-color: yellow;
+    height: 100px;
+    width: 25%;
+    float: left;
+    text-align: center;
+
+}
+.nav_three{
+
+    background-color: lightpink;
+    height: 100px;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.nav_four{
+    background-color: hotpink;
+    height: 100px;
+    width: 25%;
+    float: left;
+    text-align: center;
+
+}
+h1{
+    margin: 0;
+}
+.all{
+    background-color: red;
+    overflow: hidden;
+    height: 300px;
+    width: 100%;
+    
+}
+    
+    
+
+.about{
+    background-color: gold ;
+    height: 300px;
+    width: 30%;
+    float: left;
+    text-align: center;
+    
+
+}
+.links{
+    background-color: slateblue ;
+    height: 300px;
+    width: 70%;
+    float: right;
+    text-align: center;
+    color: white;
+    
+}
+.info{
+    background-color: green;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: indigo;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
